@@ -13,7 +13,7 @@ export default function Hero() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </Text>
-        <Button>
+        <Button bg="blue.400" color="white">
           <Text fontWeight="medium" fontSize="15px">
             Get Started
           </Text>

@@ -6,7 +6,7 @@ export default function Layout({ children, ...rest }) {
       direction="column"
       align="center"
       maxW={{ xl: "1440px" }}
-      pt="15"
+      py="15"
       m="0 auto"
       {...rest}
     >
