@@ -7,6 +7,8 @@ export { default as Layout } from "./Layout";
 export { default as Hero } from "./sections/Hero";
 export { default as Button } from "./Button";
 export { default as Services } from "./sections/Services";
+export { default as AboutUs } from "./sections/AboutUs";
+export { default as Banner } from "./sections/Banner";
 export { default as DevIcon } from "./icons/DevIcon";
 export { default as ProductIcon } from "./icons/ProductIcon";
 export { default as ResearchIcon } from "./icons/ResearchIcon";
